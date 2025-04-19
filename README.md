@@ -1,1 +1,1 @@
-This is Just a Repo.
+This is Just a Repository.
